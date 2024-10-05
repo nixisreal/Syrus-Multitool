@@ -4,7 +4,7 @@ Syrus Multitoo: The best Multitool EVER!
 New methods found by me.
 Reverse Engineered Functions like the Beamer!
 # This tool is private and only avaible per Contacting me on discord
-If you want the tool i will give it to you on Discord 
+If you want the tool i will give it to you on Discord: nixisreal1887
 # Picture:
 ![image](https://github.com/user-attachments/assets/0993bc96-13fd-42ec-81a5-1215ce8c5c3f)
 # Disclaimer
